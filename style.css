@@ -9,6 +9,8 @@ img.stars {
 
 h1 {
   text-transform: uppercase;
+  font-family: Roboto;
+  font-weight: 900;
 }
 
 .reveal pre {
