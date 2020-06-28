@@ -21,6 +21,9 @@ function f(x) {
   return x(x);
 }
 ```
+---
+
+@code[js zoom-13 code-max code-shadow](example-01.js)
 
 ---
 
