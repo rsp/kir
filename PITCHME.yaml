@@ -1,3 +1,4 @@
 theme: white
 theme-override: style.css
 transition: slide
+highlight: ~
