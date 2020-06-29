@@ -46,3 +46,7 @@ h1 {
 .reveal .controls {
   color: #000 !important;
 }
+
+#title-footer {
+  background: none;
+}
