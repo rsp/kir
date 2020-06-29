@@ -17,15 +17,11 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-*Ironically, relational databases deal poorly with relationships.*
-
--- zbyt wielu ludzi
+*Ironically, relational databases<br>deal poorly with relationships.*
 
 ---
 
 *Yes, for anyone who doesn’t understand the meaning of both “relational” **and** “irony.”*
-
--- ja
 
 ---
 
