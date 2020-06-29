@@ -138,11 +138,68 @@ Relacja to zbiór krotek
 
 ---
 
+# Krotka
+
+Krotka to uporządkowany ciąg wartości różnych typów
+
+---
+
 # Zbiór krotek
 
 Niebylejaki zbiów
 
 Podzbiór iloczynu kartezjańskiego dziedzin elementów krotek
+
+---
+
+# Konsekwencje
+
+Kolejność
+
+Unikalność
+
+Łączenie
+
+Podzbiory
+
+---
+
+# Kolejność
+
+Krotki w relacji nie mają kolejności
+<br>(wiersze w tabeli by miały)</br>
+
+Relacja to zbiór krotek
+
+Elementy w zbiorze nie mają kolejności
+
+---
+
+# Unikalność
+
+Krotki w relacji nie mogą się powtarzać
+<br>(wiersze w tabeli by mogły)
+
+Relacja to zbiór krotek
+
+Elementy w zbiorze nie powtarzają się
+
+---
+
+# Łączenie
+
+Aby połączyć dane z dwóch zbiorów
+<br>używamy iloczynu kartezjańskiego
+
+`JOIN` &nbsp;&nbsp; in SQL
+
+---
+
+# Podzbiory
+
+Iloczyn kartezjański to też zbiór tylko większych krotek
+
+Caly ten zbiór jest zbyt duży więc potrzebujemy jego podzbiór
 
 ---
 
