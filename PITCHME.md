@@ -23,7 +23,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-*Yes, for anyone who doesn’t understand the meaning of both “relational” and “irony.”*
+*Yes, for anyone who doesn’t understand the meaning of both “relational” **and** “irony.”*
 
 - ja
 
