@@ -340,6 +340,10 @@ Mój projekt:
 <a class="black" href="https://github.com/rsp/pg-scott">github.com/rsp/pg-scott</a>
 (2015)
 
+Klasyczna [Scott database](http://www.orafaq.com/wiki/SCOTT)
+(EMP, DEPT, BONUS, SALGRADE)
+używana w przykładach od zarania dziejów
+
 ---
 
 # Systemy typów
