@@ -19,3 +19,23 @@ h1 {
   border: 0;
   box-shadow: none !important;
 }
+
+.reveal a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.reveal a:hover {
+  color: #777;
+  text-decoration: underline;
+}
+
+.reveal a.black {
+  text-decoration: none;
+}
+
+.reveal a.black:hover {
+  color: #777;
+  text-decoration: underline;
+}
+
