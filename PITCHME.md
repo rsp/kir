@@ -19,6 +19,17 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# Hate
+
+"Ludziom powinno się zabronić dotykania baz danych
+dopóki nie poznają 
+algebry relacyjnej,
+teorii zbiorów
+i rachunku predykatów pierwszego rzędu." - Ja
+poned 20 lat temu
+
+---
+
 *Ironically, relational databases<br>deal poorly with relationships.*
 
 ---
@@ -221,7 +232,7 @@ Transakcja albo wykona się w w całości albo wcale
 
 Consistency
 
-Transakcja nie wykona się jeśli miałaby złamać więzy spójności
+Transakcja nie wykona się jeśli miałaby naruszyć więzy spójności
 
 ---
 
@@ -238,6 +249,12 @@ Transakcje wykonywane współbieżnie mają taki sam rezultat jak gdyby były wy
 Durability
 
 Jeśli transakcja została wykonana to jej efekt będzie trwały nawet w przypadku awarii systemu, np. braku zasilania
+
+---
+
+# Typy danych
+
+
 
 ---
 
