@@ -334,7 +334,11 @@ Jeśli transakcja została wykonana to jej efekt będzie trwały nawet w przypad
 
 # Typy danych
 
+w SQL-owych bazach danych - wszędzie inne
 
+Mój projekt:
+<a class="black" href="https://github.com/rsp/pg-scott">github.com/rsp/pg-scott</a>
+(2015)
 
 ---
 
