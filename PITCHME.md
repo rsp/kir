@@ -102,6 +102,14 @@ Od wczesnych lat '70 minęło pół wieku
 
 ---
 
+# SQL IS JUST ENGLISH
+
+Więc nieprogramiści mogą sami pisać SQL bez
+żadnego zrozumienia modelu relacyjnego
+komunikując się bezpośrednio z bazą danych
+
+---
+
 # Logika
 
 Dwuwartościowa
@@ -116,7 +124,6 @@ Czworowartościowa
 (Edgar F. Codd)
 
 ---
-
 
 # Normalizacja
 
@@ -343,6 +350,7 @@ Mój projekt:
 Klasyczna [Scott database](http://www.orafaq.com/wiki/SCOTT)
 (EMP, DEPT, BONUS, SALGRADE)
 używana w przykładach od zarania dziejów
+w wersji na Postgres
 
 ---
 
