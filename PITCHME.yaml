@@ -2,5 +2,5 @@ theme: white
 theme-override: style.css
 transition: slide
 highlight: ascetic
-logo: pocztarski.com-tr-360x40-canvas400x80.png
+logo: pocztarski.com-tr-360x40-canvas400x100.png
 logo-position: bottom-left
