@@ -260,6 +260,8 @@ ETNF (2012),
 DKNF (1981),
 6NF (2003)
 
+1NF - pierwsza postać normalna itd.
+
 ---
 
 # Rodzaje<br>baz danych
