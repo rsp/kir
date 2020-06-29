@@ -491,12 +491,7 @@ Cap'n Proto
 
 ---
 
-# Dziękuję
-
-@fa[youtube]
-
-<!-- [@fa[twitter] @pocztarski](https://twitter.com/pocztarski) -->
-
+# RAFAŁ POCZTARSKI
 
 <small>
 
@@ -508,19 +503,19 @@ Cap'n Proto
 <br>
   <a href="https://medium.com/@pocztarski" target="_blank"><i class="fab fa-medium-m"></i> Medium: @pocztarski</a>
 <br>
-  <a href="https://www.quora.com/profile/Rafa%C5%82-Pocztarski" target="_blank"><i class="fab fa-quora"></i> Quora: Rafał-Pocztarski</a>
-<br>
   <a href="https://www.facebook.com/pocztarski" target="_blank"><i class="fab fa-facebook-f"></i> Facebook: @pocztarski</a>
+<br>
+  <a href="https://www.quora.com/profile/Rafa%C5%82-Pocztarski" target="_blank"><i class="fab fa-quora"></i> Quora: Rafał-Pocztarski</a>
 <br>
   <a href="https://www.instagram.com/pocztarski/" target="_blank"><i class="fab fa-instagram"></i> Instagram: @pocztarski</a>
 <br>
-  <a href="https://www.linkedin.com/in/pocztarski" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn: @pocztarski</a>
-<br>
   <a href="https://angel.co/pocztarski" target="_blank"><i class="fab fa-angellist"></i> AngelList: @pocztarski</a>
 <br>
-  <a href="https://stackoverflow.com/users/613198/rsp" target="_blank"><i class="fab fa-stack-overflow"></i> Stack Overflow: rsp</a>
-<br>
   <a href="https://stackexchange.com/users/303952/rsp" target="_blank"><i class="fab fa-stack-exchange"></i> Stack Exchange: rsp</a>
+<br>
+  <a href="https://www.linkedin.com/in/pocztarski" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn: @pocztarski</a>
+<br>
+  <a href="https://stackoverflow.com/users/613198/rsp" target="_blank"><i class="fab fa-stack-overflow"></i> Stack Overflow: rsp</a>
 <br>
   <a href="https://crossweb.pl/en/profile/rafal-pocztarski/29326/" target="_blank"><i class="fas fa-hand-point-right"></i> Crossweb: 29326</a>
 
