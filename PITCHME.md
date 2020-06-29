@@ -495,8 +495,6 @@ Cap'n Proto
 
 <small>
 
-  <a class="black" href="https://github.com/rsp" target="_blank"><i class="fab fa-github"></i> GitHub: rsp</a>
-<br>
   <a class="black" href="https://twitter.com/pocztarski" target="_blank"><i class="fab fa-twitter"></i> Twitter: @pocztarski</a>
 <br>
   <a class="black" href="https://medium.com/@pocztarski" target="_blank"><i class="fab fa-medium-m"></i> Medium: @pocztarski</a>
@@ -514,6 +512,8 @@ Cap'n Proto
   <a class="black" href="https://stackoverflow.com/users/613198/rsp" target="_blank"><i class="fab fa-stack-overflow"></i> Stack Overflow: rsp</a>
 <br>
   <a class="black" href="https://crossweb.pl/en/profile/rafal-pocztarski/29326/" target="_blank"><i class="fas fa-hand-point-right"></i> Crossweb: 29326</a>
+<br>
+  <a class="black" href="https://github.com/rsp" target="_blank"><i class="fab fa-github"></i> GitHub: rsp</a>
 
 </small>
 
