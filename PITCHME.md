@@ -1,9 +1,11 @@
 # RAFAŁ POCZTARSKI
 
+<img src="rsp-gravatar-s800-200-bq95-circle.png">
+
 # Krotki i relacje
 
-Czyli dlaczego w relacyjnych bazach danych
-<br>nie ma tabel a SQL kłamie
+Czyli dlaczego w relacyjnych bazach<br>danych
+nie ma tabel a SQL kłamie
 
 ---
 
