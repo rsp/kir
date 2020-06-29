@@ -241,10 +241,10 @@ Jeśli transakcja została wykonana to jej efekt będzie trwały nawet w przypad
 
 # Systemy typów
 
-strong / weak
-static / dynamic
-manifest / inferred
-nominal / structural
+static / dynamic <br>
+manifest / inferred <br>
+nominal / structural <br>
+strong / weak <br>
 duck typing
 
 ---
