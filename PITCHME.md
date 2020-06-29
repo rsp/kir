@@ -16,6 +16,38 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# ACID
+
+atomicity, consistency, isolation, durability
+
+niepodzielność, spójność, izolacja, trwałość
+
+---
+
+# Niepodzielność
+
+Atomicity
+
+---
+
+# Spójność
+
+Consistency
+
+---
+
+# Izolacja
+
+Isolation
+
+---
+
+# Trwałość
+
+Durability
+
+---
+
 ```js
 function f(x) {
   return x(x);
