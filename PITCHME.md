@@ -68,7 +68,7 @@ function f(x) {
 
 # Pytania?
 
-Slides: <a class="black" href="https://pocztarski.com/kir">pocztarski.com/kir</a>
+Slajdy: <a class="black" href="https://pocztarski.com/kir">pocztarski.com/kir</a>
 
 ## <a class="black" href="https://pocztarski.com/">Rafał Pocztarski</a>
 
