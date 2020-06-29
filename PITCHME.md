@@ -17,6 +17,73 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# CAP
+
+consistency, availability, partition tolerance
+
+spójność, dostępność, odporność na partycjonowanie
+
+systemy rozproszone
+
+---
+
+# Spójność
+
+Consistency
+
+Każdy odczyt zwraca najbardziej niedawno zapisane dane lub błąd
+
+---
+
+# Dostępność
+
+Availability
+
+Każdy odczyt zwraca dane (nie błąd ani timeout)
+
+Bez gwarancji, że dane odpowiadają najbardziej niedawnemu zapisowi
+
+---
+
+# Odporność na partycjonowanie
+
+Partition tolerance
+
+System działa pomimo dowolnej liczby zgubionych lub opóźnionych pakietów między węzłami
+
+---
+
+# CA
+
+spójność + dostępność
+
+Oracle, MySQL
+
+---
+
+# CP
+
+spójność + odporność na partycjonowanie
+
+Mongo, Redis, HBase
+
+---
+
+# AP
+
+dostępność + odporność na partycjonowanie
+
+Cassandra, Dynamo, CouchDB
+
+---
+
+# Zbytnie uproszczenie?
+
+[Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+by Martin Kleppmann
+
+---
+
 # ACID
 
 atomicity, consistency, isolation, durability
