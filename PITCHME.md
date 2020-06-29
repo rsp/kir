@@ -71,7 +71,7 @@ System działa pomimo dowolnej liczby zgubionych lub opóźnionych pakietów mi�
 
 spójność + dostępność
 
-Oracle, MySQL
+Oracle, PostgreSQL, DB2, MySQL
 
 (Couchbase?)
 
@@ -102,10 +102,12 @@ Cassandra, Dynamo, CouchDB
 
 ---
 
+# Sprzeczne dane
+
 [Difference between CouchDB and Couchbase
 ](https://stackoverflow.com/a/15184612/613198) (2013)
 
-(my highest-ranked answer on Stack Overflow ever)
+(my highest-ranked answer on Stack Overflow)
 
 ---
 
