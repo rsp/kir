@@ -154,7 +154,9 @@ function f(x) {
 ```
 ---
 
-@code[js zoom-13 code-max code-shadow](example-01.js)
+# Polecam
+
+[Segfault audio](https://anchor.fm/segfault-audio)
 
 ---
 
