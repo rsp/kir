@@ -10,9 +10,9 @@ Możecie mnie znać ze Stack Overflow
 
 [<img alt="rsp on Stack Overflow" src="https://stackexchange.com/users/flair/303952.png" height="116">](https://stackoverflow.com/users/613198/rsp)
 
-# pocztarski.com
+# [pocztarski.com](https://pocztarski.com/)
 
-<small>(oraz Medium, Quora, etc.)</small>
+<small>(oraz Medium, Quora, Wikipedia, etc.)</small>
 
 ---
 
