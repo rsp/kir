@@ -3,6 +3,8 @@
 Czyli dlaczego w relacyjnych bazach danych
 <br>nie ma tabel a SQL kłamie
 
+RAFAŁ POCZTARSKI
+
 ---
 
 # <a class="black" href="https://pocztarski.com/">Rafał Pocztarski</a>
