@@ -501,10 +501,6 @@ Cap'n Proto
 <br>
   <a class="black" href="https://www.facebook.com/pocztarski" target="_blank"><i class="fab fa-facebook-f"></i> Facebook: @pocztarski</a>
 <br>
-  <a class="black" href="https://www.quora.com/profile/Rafa%C5%82-Pocztarski" target="_blank"><i class="fab fa-quora"></i> Quora: Rafał-Pocztarski</a>
-<br>
-  <a class="black" href="https://www.instagram.com/pocztarski/" target="_blank"><i class="fab fa-instagram"></i> Instagram: @pocztarski</a>
-<br>
   <a class="black" href="https://angel.co/pocztarski" target="_blank"><i class="fab fa-angellist"></i> AngelList: @pocztarski</a>
 <br>
   <a class="black" href="https://www.linkedin.com/in/pocztarski" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn: @pocztarski</a>
