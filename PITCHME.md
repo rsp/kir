@@ -122,13 +122,13 @@ W bazie danych nie ma tabel
 
 Ale dane dostajemy jako tabele
 
-I w SQL jest `CREATE TABLE`
+I w SQL jest &nbsp;&nbsp; `CREATE TABLE`
 
 ---
 
 # CREATE TABLE
 
-`CREATE TABLE` tworzy relacje
+`CREATE TABLE` &nbsp;&nbsp; tworzy relacje
 
 ---
 
