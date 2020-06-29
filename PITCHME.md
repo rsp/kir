@@ -140,7 +140,7 @@ Relacja to zbiór krotek
 
 # Krotka
 
-Krotka to uporządkowany ciąg wartości różnych typów
+Krotka to uporządkowany ciąg<br>wartości różnych typów
 
 ---
 
