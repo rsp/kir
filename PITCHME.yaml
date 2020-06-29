@@ -5,10 +5,11 @@ highlight: ascetic
 logo: pocztarski.com-tr-360x40-canvas400x100.png
 logo-position: bottom-left
 theme-background : [ "#ff0" ]
-theme-headline   : [ "Roboto", "#000", "none" ]
-theme-byline     : [ "Roboto", "#000", "none" ]
-theme-text       : [ "Roboto", "#000", "none" ]
-theme-links      : [ "#000", "#aaa" ]
-theme-code       : [ "Source Code Pro" ]
-theme-controls   : [ "#000" ]
-theme-margins    : [ "0", "15px" ]
+# theme-headline : [ "family", "color", "transform", "emphasis", "scale", "line-height", "padding" ]
+theme-headline: [ "Roboto", "#000", "none", "#000", "100", "115", "15" ]
+theme-byline: [ "Roboto", "#000", "none", "#000", "100", "115", "15" ]
+theme-text: [ "Roboto", "#000", "none", "#000", "100", "115", "15" ]
+theme-links: [ "#000", "#aaa" ]
+theme-code: [ "Source Code Pro" ]
+theme-controls: [ "#000" ]
+theme-margins: [ "0", "15px" ]
