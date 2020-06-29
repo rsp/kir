@@ -98,7 +98,7 @@ Cassandra, Dynamo, CouchDB
 # Zbytnie uproszczenie?
 
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-<br>y Martin Kleppmann
+<br>by Martin Kleppmann
 
 ---
 
