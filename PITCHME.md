@@ -33,21 +33,27 @@ algebry relacyjnej,
 teorii zbiorów
 i rachunku predykatów pierwszego rzędu."
 
-(ja w późnych latach '90)
+(ja, w późnych latach '90)
 
 ---
+
+# IRONIA
 
 *Ironically, relational databases<br>deal poorly with relationships.*
 
-(zbyt wielu ludzi przez wiele lat)
+(zbyt wielu ludzi przez zbyt wiele lat)
 
 ---
+
+# SARKAZM
 
 *Yes, for anyone who doesn’t understand the meaning of both “relational” **and** “irony.”*
 
-(ja w wiele lat później)
+(ja, wiele lat później)
 
 ---
+
+# NO TABLES
 
 [What if I told you there are no tables<br>in relational databases?](https://medium.com/@pocztarski/what-if-i-told-you-there-are-no-tables-in-relational-databases-13d31a2f9677)
 
@@ -62,6 +68,44 @@ i rachunku predykatów pierwszego rzędu."
 
 [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/What-ORMs-have-taught-me-just-learn-SQL/index.html)
 <br>by Geoff Wozniak
+
+---
+
+# Model relacyjny
+
+Edgar F. Codd (1969)
+
+---
+
+# Logika
+
+Dwuwartościowa
+<br>(True, False)
+
+Trójwartościowa
+<br>(True, False, Missing)
+
+Czworowartościowa
+<br>(True, False, Missing/Applicable, Missing/Inapplicable)
+
+(Edgar F. Codd)
+
+---
+
+
+# Normalizacja
+
+UNF (1970),
+1NF (1970),
+2NF (1971),
+3NF (1971),
+EKNF (1982),
+BCNF (1974),
+4NF (1977),
+ETNF (2012),
+5NF (1979),
+DKNF (1981),
+6NF (2003)
 
 ---
 
