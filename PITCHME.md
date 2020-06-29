@@ -211,11 +211,11 @@ Caly ten zbiór jest zbyt duży<br>więc potrzebujemy jego podzbiór
 
 # Terminologia
 
-~~TABELE~~ &nbsp;&nbsp; RELACJE
+~~TABELE / tables~~ &nbsp;&nbsp; RELACJE / relations
 
-~~WIERSZE~~ &nbsp;&nbsp; KROTKI
+~~WIERSZE / rows~~ &nbsp;&nbsp; KROTKI / tuples
 
-~~KOLUMNY~~ &nbsp;&nbsp; POZYCJE KROTEK?
+~~KOLUMNY / columns~~ &nbsp;&nbsp; POZYCJE KROTEK?
 
 ZBIORY, PODZBIORY, PREDYKATY
 
