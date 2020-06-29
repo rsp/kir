@@ -211,11 +211,11 @@ Caly ten zbiór jest zbyt duży<br>więc potrzebujemy jego podzbiór
 
 # Precyzja
 
-~~TABELE~~ RELACJE
+~~TABELE~~ &nbsp;&nbsp; RELACJE
 
-~~WIERSZE~~ KROTKI
+~~WIERSZE~~ &nbsp;&nbsp; KROTKI
 
-~~KOLUMNY~~ POZYCJE KROTEK?
+~~KOLUMNY~~ &nbsp;&nbsp; POZYCJE KROTEK?
 
 ---
 
