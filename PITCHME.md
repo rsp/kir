@@ -4,13 +4,13 @@ Czyli dlaczego w relacyjnych bazach danych nie ma tabel a SQL kłamie
 
 ---
 
-# Rafał Pocztarski
+# <a class="black" href="https://pocztarski.com/">Rafał Pocztarski</a>
 
 Możecie mnie znać ze Stack Overflow
 
 [<img alt="rsp on Stack Overflow" src="https://stackexchange.com/users/flair/303952.png" height="116">](https://stackoverflow.com/users/613198/rsp)
 
-# <a href="https://pocztarski.com/" style="color: black">pocztarski.com</a>
+# <a class="black" href="https://pocztarski.com/">pocztarski.com</a>
 
 <small>(oraz Medium, Quora, Wikipedia, etc.)</small>
 
