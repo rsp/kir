@@ -493,7 +493,7 @@ Cap'n Proto
 
 # RAFAŁ POCZTARSKI
 
-<small>
+<!-- <small> -->
 
   <a class="black" href="https://twitter.com/pocztarski" target="_blank"><i class="fab fa-twitter"></i> Twitter: @pocztarski</a>
 <br>
@@ -515,7 +515,7 @@ Cap'n Proto
 <br>
   <a class="black" href="https://github.com/rsp" target="_blank"><i class="fab fa-github"></i> GitHub: rsp</a>
 
-</small>
+<!-- </small> -->
 
 
 
