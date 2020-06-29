@@ -10,7 +10,7 @@ Możecie mnie znać ze Stack Overflow
 
 [<img alt="rsp on Stack Overflow" src="https://stackexchange.com/users/flair/303952.png" height="116">](https://stackoverflow.com/users/613198/rsp)
 
-# [pocztarski.com](https://pocztarski.com/)
+# <a href="https://pocztarski.com/" style="color: black">pocztarski.com</a>
 
 <small>(oraz Medium, Quora, Wikipedia, etc.)</small>
 
