@@ -209,6 +209,16 @@ Caly ten zbiór jest zbyt duży<br>więc potrzebujemy jego podzbiór
 
 ---
 
+# Precyzja
+
+~~TABELE~~ RELACJE
+
+~~WIERSZE~~ KROTKI
+
+~~KOLUMNY~~ POZYCJE KROTEK?
+
+---
+
 # Szczegóły
 
 # NO TABLES
