@@ -229,6 +229,7 @@ Więcej szczegółów w moim artykule:
 
 [What if I told you there are no tables<br>in relational databases?](https://medium.com/@pocztarski/what-if-i-told-you-there-are-no-tables-in-relational-databases-13d31a2f9677)
 
+* 
 ---
 
 # Logika
