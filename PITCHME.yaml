@@ -1,4 +1,4 @@
-theme: white
+theme: template
 theme-override: style.css
 transition: slide
 highlight: ascetic
