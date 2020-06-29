@@ -31,6 +31,16 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# ORM
+
+[ORM Is an Offensive Anti-Pattern](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html)
+by Yegor Bugayenko
+
+[What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/What-ORMs-have-taught-me-just-learn-SQL/index.html)
+by Geoff Wozniak
+
+---
+
 # Rodzaje<br>baz danych
 
 ---
@@ -201,11 +211,15 @@ niepodzielność, spójność, izolacja, trwałość
 
 Atomicity
 
+Transakcja albo wykona się w w całości albo wcale
+
 ---
 
 # Spójność
 
 Consistency
+
+Transakcja nie wykona się jeśli miałaby złamać więzy spójności
 
 ---
 
@@ -213,19 +227,38 @@ Consistency
 
 Isolation
 
+Transakcje wykonywane współbieżnie mają taki sam rezultat jak gdyby były wykonywane sekwencyjnie
+
 ---
 
 # Trwałość
 
 Durability
 
+Jeśli transakcja została wykonana to jej efekt będzie trwały nawet w przypadku awarii systemu, np. braku zasilania
+
 ---
 
-```js
-function f(x) {
-  return x(x);
-}
-```
+# Systemy typów
+
+strong / weak
+static / dynamic
+manifest / inferred
+nominal / structural
+duck typing
+
+---
+
+# Serializacja
+
+JSON,
+BSON,
+XML,
+CSV,
+Protocol Buffers,
+FlatBuffers,
+Cap'n Proto
+
 ---
 
 # Polecam
