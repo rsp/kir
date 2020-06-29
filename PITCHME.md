@@ -1,9 +1,9 @@
+RAFAŁ POCZTARSKI
+
 # Krotki i relacje
 
 Czyli dlaczego w relacyjnych bazach danych
 <br>nie ma tabel a SQL kłamie
-
-RAFAŁ POCZTARSKI
 
 ---
 
