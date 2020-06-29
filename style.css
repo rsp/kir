@@ -7,6 +7,10 @@ img.stars {
   vertical-align: middle;
 }
 
+.reveal {
+  font-family: Roboto;
+}
+
 h1 {
   text-transform: uppercase;
   font-family: Roboto;
