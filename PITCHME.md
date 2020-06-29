@@ -1,4 +1,4 @@
-RAFAŁ POCZTARSKI
+# RAFAŁ POCZTARSKI
 
 # Krotki i relacje
 
