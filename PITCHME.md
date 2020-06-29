@@ -31,7 +31,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# Rodzaje baz danych
+# Rodzaje<br>baz danych
 
 ---
 
