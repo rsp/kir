@@ -84,6 +84,12 @@ by Martin Kleppmann
 
 ---
 
+[Difference between CouchDB and Couchbase
+](https://stackoverflow.com/a/15184612/613198)
+(my answer on Stack Overflow)
+
+---
+
 # ACID
 
 atomicity, consistency, isolation, durability
