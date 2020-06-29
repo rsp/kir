@@ -21,19 +21,25 @@ Możecie mnie znać ze Stack Overflow
 
 # Rys historyczny
 
-"Ludziom powinno się zabronić dotykania baz danych
+"Ludziom powinno się zabronić dotykania baz danych,
 dopóki nie poznają 
 algebry relacyjnej,
 teorii zbiorów
-i rachunku predykatów pierwszego rzędu."<br>- Ja 20+ lat temu
+i rachunku predykatów pierwszego rzędu."
+
+(ja w późnych latach '90)
 
 ---
 
 *Ironically, relational databases<br>deal poorly with relationships.*
 
+(zbyt wielu ludzi przez wiele lat)
+
 ---
 
 *Yes, for anyone who doesn’t understand the meaning of both “relational” **and** “irony.”*
+
+(ja w wiele lat później)
 
 ---
 
