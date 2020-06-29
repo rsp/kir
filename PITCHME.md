@@ -36,10 +36,10 @@ Możecie mnie znać ze Stack Overflow
 # ORM
 
 [ORM Is an Offensive Anti-Pattern](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html)
-by Yegor Bugayenko
+<br>by Yegor Bugayenko
 
 [What ORMs have taught me: just learn SQL](https://wozniak.ca/blog/2014/08/03/What-ORMs-have-taught-me-just-learn-SQL/index.html)
-by Geoff Wozniak
+<br>by Geoff Wozniak
 
 ---
 
