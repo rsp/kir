@@ -144,7 +144,7 @@ Krotka to uporządkowany ciąg wartości różnych typów
 
 ---
 
-# biór krotek
+# Zbiór krotek
 
 Niebylejaki zbiór
 
