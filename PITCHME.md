@@ -19,6 +19,12 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# Slajdy
+
+<big><big> <a class="black" href="https://pocztarski.com/kir">pocztarski.com/kir</a> </big></big>
+
+---
+
 # Rys historyczny
 
 "Ludziom powinno się zabronić dotykania baz danych,
