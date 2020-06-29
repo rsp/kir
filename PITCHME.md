@@ -294,6 +294,8 @@ RethinkDB...
 Berkeley DB,
 SQLite...
 
+Wbudowane bazy danych?
+
 ---
 
 # Column-oriented database
@@ -328,11 +330,12 @@ Riak...
 Apache Derby,
 Amazon Aurora,
 dBase,
-Derby,
+<br>
 Firebird,
 IBM DB2,
 MariaDB,
 Microsoft SQL Server,
+<br>
 MySQL,
 Oracle,
 PostgreSQL,
