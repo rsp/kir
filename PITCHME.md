@@ -197,9 +197,9 @@ Aby połączyć dane z dwóch zbiorów
 
 # Podzbiory
 
-Iloczyn kartezjański to też zbiór tylko większych krotek
+Iloczyn kartezjański to też zbiór krotek<br>tylko większych krotek
 
-Caly ten zbiór jest zbyt duży więc potrzebujemy jego podzbiór
+Caly ten zbiór jest zbyt duży<br>więc potrzebujemy jego podzbiór
 
 ---
 
