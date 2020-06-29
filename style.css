@@ -59,6 +59,6 @@ h1 {
 }
 
 #title-footer, .reveal .slide-number {
-  font-family: Roboto;
-  font-weight: 500;
+  font-family: Times !important;
+  font-weight: 500 !important;
 }
