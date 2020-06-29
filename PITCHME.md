@@ -19,7 +19,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-# Hate
+# Rys historyczny
 
 "Ludziom powinno się zabronić dotykania baz danych
 dopóki nie poznają 
