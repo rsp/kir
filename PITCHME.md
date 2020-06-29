@@ -25,8 +25,7 @@ Możecie mnie znać ze Stack Overflow
 dopóki nie poznają 
 algebry relacyjnej,
 teorii zbiorów
-i rachunku predykatów pierwszego rzędu." - Ja
-poned 20 lat temu
+i rachunku predykatów pierwszego rzędu."<br>- Ja 20+ lat temu
 
 ---
 
