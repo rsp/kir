@@ -13,4 +13,4 @@ theme-links: [ "#000", "#aaa" ]
 theme-code: [ "Source Code Pro" ]
 theme-controls: [ "#000" ]
 theme-margins: [ "0", "15px" ]
-footnote : "Copyright © 2020 <a href=\"#\">Rafał Pocztarski</a>"
+footnote : "Copyright © 2020 <a href=\"https://pocztarski.com/\">Rafał Pocztarski</a>"
