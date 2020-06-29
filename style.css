@@ -30,8 +30,8 @@ h1 {
 }
 
 .reveal a:hover {
-  /* color: #777; */
-  /* text-decoration: underline; */
+  color: #777;
+  text-decoration: underline;
 }
 
 .reveal a.black {
@@ -39,7 +39,7 @@ h1 {
 }
 
 .reveal a.black:hover {
-  /* color: #777; */
+  color: #777;
   text-decoration: underline;
 }
 
