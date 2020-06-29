@@ -110,6 +110,42 @@ komunikując się bezpośrednio z bazą danych
 
 ---
 
+# Tabele
+
+Jaki jest SQL zwracający pierwszy wiersz z tabeli?
+
+---
+
+# Nie ma tabel
+
+W bazie danych nie ma tabel
+
+Ale dane dostajemy jako tabele
+
+I w SQL jest `CREATE TABLE`
+
+---
+
+# CREATE TABLE
+
+`CREATE TABLE` tworzy relacje
+
+---
+
+# Relacja
+
+Relacja to zbiór krotek
+
+---
+
+# Zbiór krotek
+
+Niebylejaki zbiów
+
+Podzbiór iloczynu kartezjańskiego dziedzin elementów krotek
+
+---
+
 # Logika
 
 Dwuwartościowa
