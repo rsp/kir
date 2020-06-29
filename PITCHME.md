@@ -491,7 +491,9 @@ Cap'n Proto
 
 ---
 
-# Pytania?
+# Dziękuję
+
+@fa[youtube]
 
 Slajdy: <a class="black" href="https://pocztarski.com/kir">pocztarski.com/kir</a>
 
