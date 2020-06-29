@@ -24,12 +24,12 @@ h1 {
   box-shadow: none !important;
 }
 
-.reveal a {
+.reveal .slides a {
   color: #000 !important;
   text-decoration: underline !important;
 }
 
-.reveal a:hover {
+.reveal .slides a:hover {
   color: #777 !important;
   text-decoration: underline !important;
 }
