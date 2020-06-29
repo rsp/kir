@@ -485,12 +485,6 @@ Cap'n Proto
 
 ---
 
-# Slajdy
-
-<big><big> <a class="black" href="https://pocztarski.com/kir">pocztarski.com/kir</a> </big></big>
-
----
-
 # RAFAŁ POCZTARSKI
 
 <!-- <small> -->
