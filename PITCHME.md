@@ -80,7 +80,7 @@ TerminusDB...
 
 ---
 
-# MapReduce database
+# Map-Reduce database
 
 Apache Hadoop,
 Apache CouchDB,
