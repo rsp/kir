@@ -75,6 +75,10 @@ i rachunku predykatów pierwszego rzędu."
 
 Edgar F. Codd (1969)
 
+A Relational Model of Data for Large Shared Data Banks
+([PDF](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf))
+- Codd, 1970
+
 ---
 
 # Logika
