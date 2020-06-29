@@ -31,6 +31,80 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# Rodzaje baz danych
+
+---
+
+# In-memory database
+
+Aerospike,
+Apache Ignite,
+ArangoDB,
+Memcached,
+Redis...
+
+---
+
+# Document-oriented database
+
+Couchbase Server,
+CouchDB,
+MongoDB,
+RethinkDB...
+
+---
+
+# Embedded database
+
+Berkeley DB,
+SQLite...
+
+---
+
+# Column-oriented database
+
+Apache Kudu,
+Amazon Redshift,
+Snowflake...
+
+---
+
+# Graph database
+
+Neo4j,
+RedisGraph,
+JanusGraph,
+Amazon Neptune,
+ArangoDB,
+TerminusDB...
+
+---
+
+# MapReduce database
+
+Apache Hadoop,
+Apache CouchDB,
+Riak...
+
+---
+
+# Relational database
+
+Apache Derby,
+Amazon Aurora,
+dBase,
+Derby,
+Firebird,
+IBM DB2,
+MariaDB,
+Microsoft SQL Server,
+MySQL,
+Oracle,
+PostgreSQL,
+SQLite...
+
+---
+
 # Systemy rozproszone
 
 sieci, protokoły, problemy
