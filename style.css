@@ -48,12 +48,12 @@ h1 {
 }
 
 #title-footer {
-  background: none !important;
+  background: white !important;
 }
 
 #title-footer a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 #title-footer a:hover {
-  text-decoration: underline;
+  text-decoration: underline !important;
 }
