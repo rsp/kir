@@ -25,21 +25,21 @@ h1 {
 }
 
 .reveal a {
-  color: #000;
-  text-decoration: underline;
+  color: #000 !important;
+  text-decoration: underline !important;
 }
 
 .reveal a:hover {
-  color: #777;
-  text-decoration: underline;
+  color: #777 !important;
+  text-decoration: underline !important;
 }
 
 .reveal a.black {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .reveal a.black:hover {
-  color: #777;
-  text-decoration: underline;
+  color: #777 !important;
+  text-decoration: underline !important;
 }
 
