@@ -25,7 +25,7 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
-[What if I told you there are no tables in relational databases?](https://medium.com/@pocztarski/what-if-i-told-you-there-are-no-tables-in-relational-databases-13d31a2f9677)
+[What if I told you there are no tables<br>in relational databases?](https://medium.com/@pocztarski/what-if-i-told-you-there-are-no-tables-in-relational-databases-13d31a2f9677)
 
 (my article from 2015)
 
@@ -98,13 +98,14 @@ Cassandra, Dynamo, CouchDB
 # Zbytnie uproszczenie?
 
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-by Martin Kleppmann
+<br>y Martin Kleppmann
 
 ---
 
 [Difference between CouchDB and Couchbase
-](https://stackoverflow.com/a/15184612/613198)
-(my answer on Stack Overflow)
+](https://stackoverflow.com/a/15184612/613198) (2013)
+
+(my highest-ranked answer on Stack Overflow ever)
 
 ---
 
