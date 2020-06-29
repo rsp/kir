@@ -209,13 +209,15 @@ Caly ten zbiór jest zbyt duży<br>więc potrzebujemy jego podzbiór
 
 ---
 
-# Precyzja
+# Terminologia
 
 ~~TABELE~~ &nbsp;&nbsp; RELACJE
 
 ~~WIERSZE~~ &nbsp;&nbsp; KROTKI
 
 ~~KOLUMNY~~ &nbsp;&nbsp; POZYCJE KROTEK?
+
+ZBIORY, PODZBIORY, PREDYKATY
 
 ---
 
