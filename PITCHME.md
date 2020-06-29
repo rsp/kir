@@ -496,8 +496,8 @@ Cap'n Proto
 <small>
 
   <a href="https://github.com/rsp" target="_blank"><i class="fab fa-github"></i> GitHub: rsp</a>
-<br>
-  <a href="https://www.npmjs.com/~rsp" target="_blank"><i class="fab fa-npm"></i> npm: rsp</a>
+<!-- <br>
+  <a href="https://www.npmjs.com/~rsp" target="_blank"><i class="fab fa-npm"></i> npm: rsp</a> -->
 <br>
   <a href="https://twitter.com/pocztarski" target="_blank"><i class="fab fa-twitter"></i> Twitter: @pocztarski</a>
 <br>
@@ -511,11 +511,11 @@ Cap'n Proto
 <br>
   <a href="https://angel.co/pocztarski" target="_blank"><i class="fab fa-angellist"></i> AngelList: @pocztarski</a>
 <br>
-  <a href="https://stackexchange.com/users/303952/rsp" target="_blank"><i class="fab fa-stack-exchange"></i> Stack Exchange: rsp</a>
-<br>
   <a href="https://www.linkedin.com/in/pocztarski" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn: @pocztarski</a>
 <br>
   <a href="https://stackoverflow.com/users/613198/rsp" target="_blank"><i class="fab fa-stack-overflow"></i> Stack Overflow: rsp</a>
+<!-- <br>
+  <a href="https://stackexchange.com/users/303952/rsp" target="_blank"><i class="fab fa-stack-exchange"></i> Stack Exchange: rsp</a> -->
 <br>
   <a href="https://crossweb.pl/en/profile/rafal-pocztarski/29326/" target="_blank"><i class="fas fa-hand-point-right"></i> Crossweb: 29326</a>
 
