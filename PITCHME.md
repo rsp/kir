@@ -191,7 +191,7 @@ Elementy w zbiorze nie powtarzają się
 Aby połączyć dane z dwóch zbiorów
 <br>używamy iloczynu kartezjańskiego
 
-`JOIN` &nbsp;&nbsp; in SQL
+`JOIN` &nbsp;&nbsp; w SQL
 
 ---
 
@@ -200,6 +200,12 @@ Aby połączyć dane z dwóch zbiorów
 Iloczyn kartezjański to też zbiór tylko większych krotek
 
 Caly ten zbiór jest zbyt duży więc potrzebujemy jego podzbiór
+
+---
+
+# Predykaty
+
+`WHERE` &nbsp;&nbsp; w SQL
 
 ---
 
