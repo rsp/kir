@@ -146,7 +146,7 @@ Krotka to uporządkowany ciąg wartości różnych typów
 
 # Zbiór krotek
 
-Niebylejaki zbiów
+Niebylejaki zbiór
 
 Podzbiór iloczynu kartezjańskiego dziedzin elementów krotek
 
