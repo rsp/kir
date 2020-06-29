@@ -31,13 +31,17 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+# Systemy rozproszone
+
+sieci, protokoły, problemy
+
+---
+
 # CAP
 
 consistency, availability, partition tolerance
 
 spójność, dostępność, odporność na partycjonowanie
-
-systemy rozproszone
 
 ---
 
@@ -71,7 +75,7 @@ System działa pomimo dowolnej liczby zgubionych lub opóźnionych pakietów mi�
 
 spójność + dostępność
 
-Oracle, PostgreSQL, DB2, MySQL
+Oracle, PostgreSQL, MySQL
 
 (Couchbase?)
 
@@ -95,7 +99,7 @@ Cassandra, Dynamo, CouchDB
 
 ---
 
-# Zbytnie uproszczenie?
+# Zbytnie uproszczenie
 
 [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 <br>by Martin Kleppmann
