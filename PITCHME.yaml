@@ -4,3 +4,12 @@ transition: slide
 highlight: ascetic
 logo: pocztarski.com-tr-360x40-canvas400x100.png
 logo-position: bottom-left
+
+theme-background : [ "#fff" ]
+# theme-headline   : [ "Raleway", "#5289F7", "none" ]
+# theme-byline     : [ "Raleway", "#111111", "none" ]
+# theme-text       : [ "Ubuntu", "#1C1C1C", "none" ]
+theme-links      : [ "#000", "#aaa" ]
+theme-code       : [ "Source Code Pro" ]
+theme-controls   : [ "#000" ]
+theme-margins    : [ "0", "15px" ]

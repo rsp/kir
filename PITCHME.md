@@ -1,6 +1,7 @@
 # Krotki i relacje
 
-Czyli dlaczego w relacyjnych bazach danych nie ma tabel a SQL kłamie
+Czyli dlaczego w relacyjnych bazach danych
+<br>nie ma tabel a SQL kłamie
 
 ---
 
