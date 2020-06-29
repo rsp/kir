@@ -94,7 +94,9 @@ SQL-86 (ANSI in 1986, ISO in 1987)
 "SQL deviates in several ways from its theoretical foundation, [...]
 Critics argue that SQL should be replaced [...]
 it's quite possible that SQL can be "fixed" [...]
-Debate on this remains open."
+Debate on this remains open." (Wikipedia)
+
+(Od wczesnych lat '70 minęło pół wieku a debata nadal jest otwarta)
 
 ---
 
