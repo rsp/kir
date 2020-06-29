@@ -50,3 +50,10 @@ h1 {
 #title-footer {
   background: none !important;
 }
+
+#title-footer a {
+  text-decoration: none;
+}
+#title-footer a:hover {
+  text-decoration: underline;
+}
