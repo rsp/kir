@@ -20,7 +20,7 @@ h1 {
 .reveal pre {
   /* width: 120%; */
   /* margin-left: -10%; */
-  border: 0;
+  border: 0 !important;
   box-shadow: none !important;
 }
 

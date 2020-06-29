@@ -60,18 +60,16 @@ function f(x) {
 
 ---
 
-# Slides
+# Slajdy
 
-<big><big> [pocztarski.com/wid](https://pocztarski.com/kir) </big></big>
+<big><big> <a class="black" href="https://pocztarski.com/kir">pocztarski.com/kir</a> </big></big>
 
 ---
 
 # Pytania?
 
-Slides: https://pocztarski.com/kir
+Slides: <a class="black" href="https://pocztarski.com/kir">pocztarski.com/kir</a>
 
-## Rafał Pocztarski
+## <a class="black" href="https://pocztarski.com/">Rafał Pocztarski</a>
 
-## [pocztarski.com](https://pocztarski.com)
-
-“” - Ryan Dahl
+## <a class="black" href="https://pocztarski.com/">pocztarski.com</a>
