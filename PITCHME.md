@@ -17,6 +17,20 @@ Możecie mnie znać ze Stack Overflow
 
 ---
 
+*Ironically, relational databases deal poorly with relationships.*
+
+---
+
+*Yes, for anyone who doesn’t understand the meaning of both “relational” and “irony.”*
+
+---
+
+[What if I told you there are no tables in relational databases?](https://medium.com/@pocztarski/what-if-i-told-you-there-are-no-tables-in-relational-databases-13d31a2f9677)
+
+(my article from 2015)
+
+---
+
 # CAP
 
 consistency, availability, partition tolerance
@@ -59,6 +73,8 @@ spójność + dostępność
 
 Oracle, MySQL
 
+(Couchbase?)
+
 ---
 
 # CP
@@ -66,6 +82,8 @@ Oracle, MySQL
 spójność + odporność na partycjonowanie
 
 Mongo, Redis, HBase
+
+(Couchbase?)
 
 ---
 
