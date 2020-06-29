@@ -98,7 +98,7 @@ Critics argue that SQL should be replaced [...]
 it's quite possible that SQL can be "fixed" [...]
 Debate on this remains open." (Wikipedia)
 
-(Od wczesnych lat '70 minęło pół wieku a debata nadal jest otwarta)
+Od wczesnych lat '70 minęło pół wieku
 
 ---
 
