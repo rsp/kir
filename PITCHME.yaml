@@ -4,7 +4,7 @@ transition: slide
 highlight: ascetic
 logo: pocztarski.com-tr-360x40-canvas400x100.png
 logo-position: bottom-left
-theme-background : [ "#fff" ]
+theme-background : [ "#ff0" ]
 theme-headline   : [ "Roboto", "#000", "none" ]
 theme-byline     : [ "Roboto", "#000", "none" ]
 theme-text       : [ "Roboto", "#000", "none" ]
